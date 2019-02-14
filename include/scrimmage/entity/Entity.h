@@ -39,6 +39,7 @@
 #include <scrimmage/proto/Visual.pb.h>
 #include <scrimmage/pubsub/Message.h>
 
+
 #include <map>
 #include <set>
 #include <unordered_map>
